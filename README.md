@@ -26,4 +26,4 @@ dataset = datasets.load_dataset('chiseng-cheang/TempoSum', 'CNN_future')
 
 ### Manual Download
 
-All datasets are also available at: (https://drive.google.com/drive/folders/1BdeTFqoea8GD240h78PgXBO68e53ea9E?usp=sharing)
+All datasets are also available at: https://drive.google.com/drive/folders/1BdeTFqoea8GD240h78PgXBO68e53ea9E?usp=sharing
